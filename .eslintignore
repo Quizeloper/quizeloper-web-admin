@@ -1,0 +1,8 @@
+node_modules/*
+.vscode/*
+package.json
+package-lock.json
+webpack.config.ts
+*.d.ts
+.gitignore
+README.md
