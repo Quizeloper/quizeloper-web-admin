@@ -1,13 +1,7 @@
-import React from "react";
-import GlobalStyle from "./assets/styles/globalStyle";
+import React from 'react';
 
-const App = () => {
-  return (
-    <>
-      <GlobalStyle />
-      <h1>The First Step</h1>
-    </>
-  );
-};
+function App() {
+  return <div>First Step</div>;
+}
 
 export default App;

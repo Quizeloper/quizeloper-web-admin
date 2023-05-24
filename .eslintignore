@@ -1,8 +1,12 @@
-node_modules/*
+.DS_Store
 .vscode/*
+node_modules/*
+*.pnp
+*.pnp.js
+coverage/*
+build/*
 package.json
 package-lock.json
-webpack.config.ts
-*.d.ts
+yarn.lock
 .gitignore
-README.md
+*.md
